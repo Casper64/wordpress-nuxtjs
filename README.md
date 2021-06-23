@@ -31,3 +31,6 @@ Please note this is a boilerplate, it contains some defaults you might want to p
 5. Make sure assets/config.ts reflects your configuration and endpoints for the WP rest api and wordpress url
 
 6. Replace the url `wordpress/wp-content/themes/headless-nuxt/index.php` to your homeurl (default is `localhost:3000`)
+
+# Tips
+- Install Advanced Custom Fields plugin and [acf-to-rest-api](https://github.com/airesvsg/acf-to-rest-api)
